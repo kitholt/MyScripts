@@ -1,7 +1,7 @@
 name: AutoChecked
 on:
   schedule:
-    - cron: "0 7 * * *"
+    - cron: "25 0 * * *"
     
 jobs:
   build:
